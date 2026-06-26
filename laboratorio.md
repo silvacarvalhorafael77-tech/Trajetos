@@ -6,7 +6,7 @@
 Passo 1.1: Subir a topologia com os dois nós (node-a e node-b).
 
   ```
-   sudo clab deploy -t <nome da topologia>.yml
+    sudo clab deploy -t topologia.yml
   ```
 Passo 1.2: Acessar os Nós do Laboratório
 
@@ -15,13 +15,13 @@ Passo 1.2: Acessar os Nós do Laboratório
    - Para acessar o node-a:
    
    ```
-   docker exec -it clab-ebpf-lab-node-a bash
+   docker exec -it clab-silvacarvalhorafael77-tech-lab-node-a bash
    ```
    
    - Para acessar o node-b:
    
    ```
-   docker exec -it clab-ebpf-lab-node-b bash
+   docker exec -it clab-silvacarvalhorafael77-tech-lab-node-b bash
    ```
 
 Passo 1.3: Verificar Interfaces e Endereços IP
