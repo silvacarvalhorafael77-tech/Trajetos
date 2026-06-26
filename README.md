@@ -81,7 +81,7 @@ containerlab version
 Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
-git clone https://github.com/silvacarvalhorafael77-tech/lab.git
+git clone https://github.com/silvacarvalhorafael77-tech/Trajetos
 cd Trajetos
 ```
 
